@@ -1,0 +1,14 @@
+{
+  "name": "localhost-hapi",
+  "version": "1.0.0",
+  "description": "testing localhost-with-hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "awb-local-server-npm"
+  ],
+  "author": "awebr000",
+  "license": "MIT"
+}
